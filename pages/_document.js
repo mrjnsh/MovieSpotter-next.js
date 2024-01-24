@@ -5,9 +5,9 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <link
-          rel="stylesheet"
+          rel="icon"
           type="text/css"
-          href="//fonts.googleapis.com/css?family=Pacifico"
+          href="/favicon.png"
         />
       </Head>
       <body>
